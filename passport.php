@@ -56,7 +56,7 @@
                     <a class="nav-link" href="#">Inicio <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Diplomado</a>
+                    <a class="nav-link" href="diplomat/sections.php">Diplomado</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Documentos</a>
