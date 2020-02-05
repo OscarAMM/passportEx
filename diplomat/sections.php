@@ -14,7 +14,7 @@
     </script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js">
     </script>
-    <title>Documentos de evidencia</title>
+    <title>SEGEY | PE</title>
 </head>
 
 <body>
@@ -32,7 +32,7 @@
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium quam enim, repellendus
                     dignissimos aut illum, obcaecati cumque soluta vitae sint nihil. Corrupti, consequatur quis. Beatae,
                     mollitia aspernatur. Quae, dignissimos magnam?</p>
-                <p><a href="" class="btn btn-primary">Ver</a></p>
+                <p><a href="evidence_docs/sub_sections.php" class="btn btn-primary">Ver</a></p>
             </div>
             <div class="col-md-4">
                 <h4>Auto reflexión sobre la práctica docente/directiva.</h4>
