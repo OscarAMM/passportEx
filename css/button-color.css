@@ -1,0 +1,8 @@
+.btn-section-1{
+    background-color: #FF8300;
+    color:white;
+}
+.btn-section-1:hover{
+    background-color: #FF972A;
+    color:white;
+}
