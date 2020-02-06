@@ -34,7 +34,6 @@
         <a class="btn btn-outline-primary" href="#">Iniciar sesión</a>
     </div>
     <div class="container">
-    
         <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
             <h1 class=" text-center">PASAPORTE A LA EXCELENCIA </h1>
             <p class="lead">Descarga la lista de asistencia para su grupo o contesta la encuesta de opinión.</p>
