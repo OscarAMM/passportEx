@@ -36,6 +36,7 @@
     <div class="container">
         <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
             <h1 class=" text-center">PASAPORTE A LA EXCELENCIA </h1>
+            <h4>Documentos de evidencia</h4>
             <p class="lead">Descarga la lista de asistencia para su grupo o contesta la encuesta de opinión.</p>
             <hr>
         </div>
@@ -46,7 +47,7 @@
                 </div>
                 <div class="card-body">
                     <p class="lead">Descarga la lista de asistencia vacía</p>
-                    <p><a href="" class="btn btn-section-1">Descargar</a></p>
+                    <p><a href="../../docs/lista_asistencia_vacia.pdf" download class="btn btn-section-1">Descargar</a></p>
                 </div>
             </div>
             <div class="card mb-4 shadow-sm text-white" style="background-color:#00BFFF">
