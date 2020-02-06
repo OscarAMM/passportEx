@@ -48,10 +48,9 @@
         <img src="img/logoSegey.png" width="280px" alt="" class="img-fluid float-left">
         <div class="col-md-12 p-lg-5 mx-auto my-5">
             <h1 class="display-4 font-weight-normal">PASAPORTE A LA EXCELENCIA</h1>
-
             <hr style="border: 1px solid white">
             <h2 class="font-weight-normal">Estrategia integral</h2>
-            <a class="btn btn-outline-light" href="diplomat/sections.php">Ver</a>
+            <a class="btn btn-outline-light" href="diplomat/sections.php">Secciones</a>
         </div>
         <div class="product-device shadow-sm d-none d-md-block"></div>
         <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
