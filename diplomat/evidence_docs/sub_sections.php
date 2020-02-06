@@ -17,29 +17,49 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
         integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
     </script>
+    <link rel="stylesheet" href="../../css/button-color.css">
     <title>SEGEY | Lista Asistencia</title>
 </head>
 
 <body>
+    <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
+        <h5 class="my-0 mr-md-auto font-weight-normal"><a href="../../passport.php" class="btn text-dark"><img
+                    src="../../img/logo2.png" class="img-fluid" width="50px" alt="">Pasaporte</a></h5>
+        <nav class="my-2 my-md-0 mr-md-3">
+            <a class="p-2 text-dark" href="#">Matemáticas</a>
+            <a class="p-2 text-dark" href="#">Español</a>
+            <a class="p-2 text-dark" href="#">Práctica docente</a>
+            <a class="p-2 text-dark" href="#">Habilidades para la vida</a>
+        </nav>
+        <a class="btn btn-outline-primary" href="#">Iniciar sesión</a>
+    </div>
     <div class="container">
-        <div class="jumbotron">
-            <h4 class="display-4">Lista de asistencia</h4>
-            <p class="lead">Esta sección es para la lista de asistencia</p>
+    
+        <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+            <h1 class=" text-center">PASAPORTE A LA EXCELENCIA </h1>
+            <p class="lead">Descarga la lista de asistencia para su grupo o contesta la encuesta de opinión.</p>
             <hr>
-            <div class="btn-group">
-                <a href="../sections.php" class="btn btn-secondary">Regresar</a>
-                <a href="" class="btn btn-primary">Encuesta</a>
-                <a href="" class="btn btn-primary">Acción</a>
+        </div>
+        <div class="card-deck mb-3 text-center">
+            <div class="card mb-4 shadow-sm text-white" style="background-color:#00BFFF">
+                <div class="card-header">
+                    <h4 class="card-title">Lista de asistencia</h4>
+                </div>
+                <div class="card-body">
+                    <p class="lead">Descarga la lista de asistencia vacía</p>
+                    <p><a href="" class="btn btn-section-1">Descargar</a></p>
+                </div>
+            </div>
+            <div class="card mb-4 shadow-sm text-white" style="background-color:#00BFFF">
+                <div class="card-header">
+                    <h4 class="card-title">Encuesta de opinión</h4>
+                </div>
+                <div class="card-body">
+                <p class="lead">Contesta la encuesta de opinión</p>
+                <a href="#" class="btn btn-section-1">Encuesta</a>
+                </div>
             </div>
         </div>
-        <table class="table table-sm">
-            <thead>
-                <tr>
-                    <th>Nombre</th>
-                    <th>Acciones</th>
-                </tr>
-            </thead>
-        </table>
     </div>
 </body>
 
