@@ -1,8 +1,33 @@
 .btn-section-1{
-    background-color: #FF8300;
+    background-color: #0B7E9F;
     color:white;
 }
 .btn-section-1:hover{
-    background-color: #FF972A;
+    background-color: #2C8CA7;
+    color:white;
+}
+.btn-section-2{
+    background-color: #FF9649;
+    color:white;
+}
+.btn-section-2:hover{
+    background-color: #FF8022;
+    color:white;
+}
+.btn-section-3{
+    background-color: #EEFD61;
+    color:#BA55D3;
+}
+.btn-section-3:hover{
+    background-color: #F2FD88;
+    color:#BA55D3;
+}
+.btn-section-4{
+    background-color: #146B6B;
+    color:white;
+}
+
+.btn-section-4:hover{
+    background-color: #277D7D;
     color:white;
 }
