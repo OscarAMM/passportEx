@@ -19,18 +19,18 @@
 </head>
 
 <body>
-    <div class="jumbotron p-3 p-md-5 m-md-3 text-center text-white" style="background-color: #0FB0DE">
-        <img src="../img/logoSegey.png" width="280px" alt="" class="img-fluid float-left">
-        <div class="col-md-12 p-lg-5 mx-auto my-5">
-            <h1 class="display-4 font-weight-normal">PASAPORTE A LA EXCELENCIA</h1>
-            <hr style="border: 1px solid white">
-            <h2 class="font-weight-normal">Secciones</h2>
-        </div>
-        <div class="product-device shadow-sm d-none d-md-block"></div>
-        <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
+    <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
+        <h5 class="my-0 mr-md-auto font-weight-normal"><a href="../../passport.php" class="btn font-weight-bold"><img
+                    src="../img/logo2.png" class="img-fluid" width="40px" alt="">PAEX</a></h5>
     </div>
-
     <div class="container">
+        <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+            <h1 class=" text-center">PASAPORTE A LA EXCELENCIA </h1>
+            <h4>Secciones</h4>
+            <p class="lead">Podrás acceder a cualquier sección siempre y cuando tengas los permisos.</p>
+            <p class="lead">Para regresar da click en <a href="../passport.php" class="btn btn-outline-dark">Regresar</a></p>
+            <hr>
+        </div>
         <div class="row">
             <div class="col-md-4">
                 <div class="card box shadow mb-4 text-white" style="background-color:#FF8509">
@@ -53,7 +53,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="card box shadow mb-4 text-white"style="background-color:#FF8509">
+                <div class="card box shadow mb-4 text-white" style="background-color:#FF8509">
                     <div class="card-body">
                         <h5 class="card-title">Auto reflexión sobre la práctica docente/directiva.</h5>
                         <hr style="border: 1px solid white">
