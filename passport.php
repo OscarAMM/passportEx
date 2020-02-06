@@ -45,12 +45,12 @@
 <body>
 
     <div class="jumbotron p-3 p-md-5 m-md-3 text-center text-white" style="background-color: #0FB0DE">
-        <img src="img/logoSegey.png" width="250px" alt="" class="img-fluid float-left">
+        <img src="img/logoSegey.png" width="280px" alt="" class="img-fluid float-left">
         <div class="col-md-12 p-lg-5 mx-auto my-5">
-            <h1 class="display-4 font-weight-normal">Pasaporte a la excelencia</h1>
+            <h1 class="display-4 font-weight-normal">PASAPORTE A LA EXCELENCIA</h1>
 
             <hr style="border: 1px solid white">
-            <h4 class="lead font-weight-normal">Estrategia integral</h4>
+            <h2 class="font-weight-normal">Estrategia integral</h2>
             <a class="btn btn-outline-light" href="diplomat/sections.php">Ver</a>
         </div>
         <div class="product-device shadow-sm d-none d-md-block"></div>
@@ -171,6 +171,16 @@
                     prácticas docentes y de los resultados de
                     aprendizaje de sus estudiantes.
                 </p>
+                <div class="card box shadow p-3 text-right">
+                    <blockquote class="blockquote mb-0">
+                        <p>"La enseñanza no se hace de cabeza a cabeza, sino de corazón a corazón"</p>
+                        <footer class="blockquote-footer">
+                            <small class="text-muted">
+                                <cite title="Source Title">Howard G.Hendricks</cite>
+                            </small>
+                        </footer>
+                    </blockquote>
+                </div>
             </div>
             <div class="col-md-4">
                 <img src="img/lateral.png" alt="" class="img-fluid img-thumbnail box shadow mb-4">
@@ -189,16 +199,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="card box shadow p-3 text-right">
-                    <blockquote class="blockquote mb-0">
-                        <p>"La enseñanza no se hace de cabeza a cabeza, sino de corazón a corazón"</p>
-                        <footer class="blockquote-footer">
-                            <small class="text-muted">
-                                <cite title="Source Title">Howard G.Hendricks</cite>
-                            </small>
-                        </footer>
-                    </blockquote>
-                </div>
+               
             </div>
         </div>
     </div>
