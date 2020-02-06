@@ -184,7 +184,8 @@
             <div class="col-md-4">
                 <img src="img/lateral.png" alt="" class="img-fluid img-thumbnail box shadow mb-4">
                 <div class="card mb-4 box shadow">
-                    <img src="img/comunidad.png" class="card-img-top img-fluid" alt="comunidad" title="comunidad-escuela" >
+                    <img src="img/comunidad.png" class="card-img-top img-fluid" alt="comunidad"
+                        title="comunidad-escuela">
                     <div class="card-body">
                         <h5 class="card-title">Escuela-Comunidad</h5>
                         <p class="lead">Se promoverá un mayor acceso a servicios complementarios para el
@@ -198,55 +199,17 @@
                         </p>
                     </div>
                 </div>
-               
+
             </div>
         </div>
     </div>
 
-    <footer class="container py-5">
+    <footer class="container">
         <hr>
         <div class="row">
-            <div class="col-12 col-md">
+            <div class="col-6 col-md">
                 <img src="img/logo2.png" width="50px" alt="">
                 <small class="d-block mb-3 text-muted">&copy; 2019-2020</small>
-            </div>
-            <div class="col-6 col-md">
-                <h5>Features</h5>
-                <ul class="list-unstyled text-small">
-                    <li><a class="text-muted" href="#">Cool stuff</a></li>
-                    <li><a class="text-muted" href="#">Random feature</a></li>
-                    <li><a class="text-muted" href="#">Team feature</a></li>
-                    <li><a class="text-muted" href="#">Stuff for developers</a></li>
-                    <li><a class="text-muted" href="#">Another one</a></li>
-                    <li><a class="text-muted" href="#">Last time</a></li>
-                </ul>
-            </div>
-            <div class="col-6 col-md">
-                <h5>Resources</h5>
-                <ul class="list-unstyled text-small">
-                    <li><a class="text-muted" href="#">Resource</a></li>
-                    <li><a class="text-muted" href="#">Resource name</a></li>
-                    <li><a class="text-muted" href="#">Another resource</a></li>
-                    <li><a class="text-muted" href="#">Final resource</a></li>
-                </ul>
-            </div>
-            <div class="col-6 col-md">
-                <h5>Resources</h5>
-                <ul class="list-unstyled text-small">
-                    <li><a class="text-muted" href="#">Business</a></li>
-                    <li><a class="text-muted" href="#">Education</a></li>
-                    <li><a class="text-muted" href="#">Government</a></li>
-                    <li><a class="text-muted" href="#">Gaming</a></li>
-                </ul>
-            </div>
-            <div class="col-6 col-md">
-                <h5>About</h5>
-                <ul class="list-unstyled text-small">
-                    <li><a class="text-muted" href="#">Team</a></li>
-                    <li><a class="text-muted" href="#">Locations</a></li>
-                    <li><a class="text-muted" href="#">Privacy</a></li>
-                    <li><a class="text-muted" href="#">Terms</a></li>
-                </ul>
             </div>
         </div>
     </footer>
