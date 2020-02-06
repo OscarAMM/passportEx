@@ -31,7 +31,6 @@
     </div>
 
     <div class="container">
-        <hr style="border: 1px solid deepskyblue">
         <div class="row">
             <div class="col-md-4">
                 <div class="card box shadow mb-4 text-white" style="background-color:#FF8509">
