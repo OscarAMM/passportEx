@@ -59,7 +59,7 @@
                         <h5 class="card-title">Auto reflexión sobre la práctica docente/directiva.</h5>
                         <hr style="border: 1px solid white">
                         <p class="card-text"></p>
-                        <p><a href="" class="btn btn-section-1">Acceder</a></p>
+                        <p><a href="principal/sub_sections.php" class="btn btn-section-1">Acceder</a></p>
                     </div>
                 </div>
             </div>
