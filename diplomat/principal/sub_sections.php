@@ -48,7 +48,7 @@
                 </div>
                 <div class="card-body">
                     <p class="lead">Descarga el programa</p>
-                    <p><a href="#" download class="btn btn-section-1">Descargar</a></p>
+                    <p><a href="#"  class="btn btn-section-1">Descargar</a></p>
                 </div>
             </div>
             <div class="card mb-4 shadow-sm text-white" style="background-color:#00BFFF">
@@ -57,7 +57,7 @@
                 </div>
                 <div class="card-body">
                     <p class="lead">Descarga el contenido</p>
-                    <a href="#" download class="btn btn-section-1">Descargar</a>
+                    <a href="#"  class="btn btn-section-1">Descargar</a>
                 </div>
             </div>
             <div class="card mb-4 shadow-sm text-white" style="background-color:#00BFFF">
