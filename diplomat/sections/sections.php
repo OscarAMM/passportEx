@@ -38,7 +38,7 @@
                             <h5 class="card-title">Procesos de aprendizaje y enseñanza de las matemáticas </h5>
                             <hr style="border: 1px solid white">
                             <p class="card-text"></p>
-                            <p><a href="" class="btn btn-section-1">Acceder</a></p>
+                            <p><a href="../math/sub_sections.php" class="btn btn-section-1">Acceder</a></p>
                         </div>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
                             <h5 class="card-title">Procesos de aprendizaje y enseñanza del español</h5>
                             <hr style="border: 1px solid white">
                             <p class="card-text"></p>
-                            <p><a href="" class="btn btn-section-1">Acceder</a></p>
+                            <p><a href="../spanish/sub_sections.php" class="btn btn-section-1">Acceder</a></p>
                         </div>
                     </div>
                 </div>
@@ -71,7 +71,7 @@
                             <h5 class="card-title">Habilidades para la vida</h5>
                             <hr style="border: 1px solid white">
                             <p class="card-text"></p>
-                            <p><a href="" class="btn btn-section-1">Acceder</a></p>
+                            <p><a href="../skills/sub_sections.php" class="btn btn-section-1">Acceder</a></p>
                         </div>
                     </div>
                 </div>
