@@ -42,7 +42,7 @@
                             <h5 class="card-title">Documentos generales de la Estrategia</h5>
                             <hr style="border: 1px solid white">
                             <p class="card-text"></p>
-                            <a href="#" class="btn btn-primary">Acceder</a>
+                            <a href="docs_generales/sections.php" class="btn btn-primary">Acceder</a>
                         </div>
                     </div>
                 </div>
