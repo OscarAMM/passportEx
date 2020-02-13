@@ -46,11 +46,13 @@
 
     <div class="jumbotron p-3 p-md-5 m-md-3 text-center text-white" style="background-color: #0FB0DE">
         <img src="img/logoSegey.png" width="280px" alt="" class="img-fluid float-left">
+        <img src="img/DGDEGR.png"  width="280px" class="img-fluid float-right"alt="">
         <div class="col-md-12 p-lg-5 mx-auto my-5">
+            <h4 class=" font-weight-bold">Dirección General de Desarrollo Educativo y Gestión Regional</h1>
             <h1 class="display-4 font-weight-normal">PASAPORTE A LA EXCELENCIA</h1>
             <hr style="border: 1px solid white">
             <h2 class="font-weight-normal">Estrategia integral</h2>
-            <a class="btn btn-outline-light" href="diplomat/sections.php">Secciones</a>
+            <a class="btn btn-outline-light" href="diplomat/sections.php">Ingresar</a>
         </div>
         <div class="product-device shadow-sm d-none d-md-block"></div>
         <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>

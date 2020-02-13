@@ -47,7 +47,7 @@
                 </div>
                 <div class="card-body">
                     <p class="lead">Descarga la lista de asistencia vacía</p>
-                    <p><a href="../../docs/lista_asistencia_vacia.pdf" download class="btn btn-section-1">Descargar</a></p>
+                    <p><a href="../../docs/lista_asistencia_vacia.pdf" class="btn btn-section-1">Descargar</a></p>
                 </div>
             </div>
             <div class="card mb-4 shadow-sm text-white" style="background-color:#00BFFF">
@@ -56,6 +56,15 @@
                 </div>
                 <div class="card-body">
                 <p class="lead">Contesta la encuesta de opinión</p>
+                <a href="#" class="btn btn-section-1">Encuesta</a>
+                </div>
+            </div>
+            <div class="card mb-4 shadow-sm text-white" style="background-color:#00BFFF">
+                <div class="card-header">
+                    <h4 class="card-title">Fotografías</h4>
+                </div>
+                <div class="card-body">
+                <p class="lead">Ve las fotografías</p>
                 <a href="#" class="btn btn-section-1">Encuesta</a>
                 </div>
             </div>

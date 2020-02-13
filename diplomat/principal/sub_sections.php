@@ -48,7 +48,7 @@
                 </div>
                 <div class="card-body">
                     <p class="lead">Descarga el programa</p>
-                    <p><a href="#"  class="btn btn-section-1">Descargar</a></p>
+                    <p><a href="#" class="btn btn-section-1">Descargar</a></p>
                 </div>
             </div>
             <div class="card mb-4 shadow-sm text-white" style="background-color:#00BFFF">
@@ -57,7 +57,7 @@
                 </div>
                 <div class="card-body">
                     <p class="lead">Descarga el contenido</p>
-                    <a href="#"  class="btn btn-section-1">Descargar</a>
+                    <a href="#" class="btn btn-section-1">Descargar</a>
                 </div>
             </div>
             <div class="card mb-4 shadow-sm text-white" style="background-color:#00BFFF">
@@ -69,6 +69,16 @@
                     <a href="activities.php" class="btn btn-section-1">Acceder</a>
                 </div>
             </div>
+            <div class="card box shadow mb-4 text-white" style=" background-color:#00BFFF;">
+                <div class="card-header">
+                    <h4 class="card-title">Evidencia</h4>
+                </div>
+                <div class="card-body">
+                    <p class="lead">Descarga docs. y fotos</p>
+                    <a href="../evidence_docs/sub_sections.php" class="btn btn-section-1">Acceder</a>
+                </div>
+            </div>
+
         </div>
     </div>
 </body>
